@@ -5,7 +5,7 @@
 <h2>👨‍💻Cybersecurity Projects:</h2>
 
 - <b>Home Lab</b>
-  - [Kali Purple VM in VirtualBox](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Kali Purple VM in VirtualBox](https://github.com/tpreissler/Home_Lab)
 
 
 
