@@ -5,5 +5,5 @@
 <h2>👨‍💻Cybersecurity Projects:</h2>
 
 - <b>Nessus (Essentials) Lab</b>
-  - (https://github.com/tpreissler/Nessus-Essentials-Lab)
+  - https://github.com/tpreissler/Nessus-Essentials-Lab
 
