@@ -1,6 +1,6 @@
 <h1>Hi, I'm Tanner!</h1>
 
-<br/>
+<br>
 
 <h2>👨‍💻Cybersecurity Projects:</h2>
 
